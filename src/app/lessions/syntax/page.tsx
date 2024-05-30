@@ -46,7 +46,7 @@ export default function Page() {
         you can do almost any programming task with it. Javascript is a
         dynamically typed language; this means any variable can be any type. For
         example, If I have a function that takes a number and divides it by 2 in
-        Javascript, I can pass it a string, and the program won&apos;t crash.
+        Javascript, I can pass it a string, and the program won&apos;gitt crash.
         This usually creates unintended behaviors.{" "}
         <b className="text-blue-400">Typescript</b> was designed to add static
         typing on top of JavaScript. In the previous example,{" "}
