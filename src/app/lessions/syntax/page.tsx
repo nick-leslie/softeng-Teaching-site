@@ -46,8 +46,8 @@ export default function Page() {
         you can do almost any programming task with it. Javascript is a
         dynamically typed language; this means any variable can be any type. For
         example, If I have a function that takes a number and divides it by 2 in
-        Javascript, I can pass it a string, and the program won't crash. This
-        usually creates unintended behaviors.{" "}
+        Javascript, I can pass it a string, and the program won&apos;t crash.
+        This usually creates unintended behaviors.{" "}
         <b className="text-blue-400">Typescript</b> was designed to add static
         typing on top of JavaScript. In the previous example,{" "}
         <b className="text-blue-400">Typescript</b> will warn you that a string
@@ -61,14 +61,14 @@ export default function Page() {
         <b className="text-red-500">Java</b> and{" "}
         <b className="text-blue-400">Typescript</b>, you must declare the data
         type of A variable when you create it. Once created, these variables
-        should only be assigned values of the same type. If the value doesn't
-        match the type, both languages will throw errors at compile time.
-        However, if you encounter type errors at run time,{" "}
+        should only be assigned values of the same type. If the value
+        doesn&apos;t match the type, both languages will throw errors at compile
+        time. However, if you encounter type errors at run time,{" "}
         <b className="text-red-500">Java</b> will crash, but
-        <b className="text-blue-400">Typescript</b> won't in many cases. Instead{" "}
-        <b className="text-blue-400">Typescript</b> will try its best and often
-        cause unintended behaviors. Lets take a look at the syntax diffrneces
-        between the two
+        <b className="text-blue-400">Typescript</b> won&apos;t in many cases.
+        Instead <b className="text-blue-400">Typescript</b> will try its best
+        and often cause unintended behaviors. Lets take a look at the syntax
+        diffrneces between the two
       </p>
       <div className="grid grid-cols-2">
         <div className="flex flex-col w-full gap-2">
