@@ -41,13 +41,13 @@ export default function Page() {
         But first, what is <b className="text-blue-400">Typescript</b>?{" "}
         <b className="text-blue-400">Typescript</b> is a superset of Javascript
         that allows for static typing. I just threw a lot of buzzwords at you,
-        so let's break it down. Javascript is a programming language that powers
-        the web. It was created for dynamically modifying websites; however, now
-        you can do almost any programming task with it. Javascript is a
-        dynamically typed language; this means any variable can be any type. For
-        example, If I have a function that takes a number and divides it by 2 in
-        Javascript, I can pass it a string, and the program won&apos;gitt crash.
-        This usually creates unintended behaviors.{" "}
+        so let&apos;s break it down. Javascript is a programming language that
+        powers the web. It was created for dynamically modifying websites;
+        however, now you can do almost any programming task with it. Javascript
+        is a dynamically typed language; this means any variable can be any
+        type. For example, If I have a function that takes a number and divides
+        it by 2 in Javascript, I can pass it a string, and the program
+        won&apos;gitt crash. This usually creates unintended behaviors.{" "}
         <b className="text-blue-400">Typescript</b> was designed to add static
         typing on top of JavaScript. In the previous example,{" "}
         <b className="text-blue-400">Typescript</b> will warn you that a string
