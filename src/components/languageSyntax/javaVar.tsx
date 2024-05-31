@@ -1,6 +1,6 @@
 import { ReactNode } from "react";
 export default function JavaVar(props: {
-  modifiers: string;
+  modifiers?: string;
   name: string;
   type: string;
   value: ReactNode;
